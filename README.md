@@ -1,3 +1,7 @@
+STATE MANAGEMENT EXAMPLE TAKEN FROM:
+https://medium.com/swlh/mimic-redux-with-react-context-api-and-hooks-21fbec280205
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
